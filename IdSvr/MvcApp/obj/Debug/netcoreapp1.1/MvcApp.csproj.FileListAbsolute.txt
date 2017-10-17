@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\IdSvr\MvcApp\bin\Debug\netcoreapp1.1\MvcApp.deps.json
+E:\Visual Studio Projects\IdSvr\MvcApp\bin\Debug\netcoreapp1.1\MvcApp.runtimeconfig.json
+E:\Visual Studio Projects\IdSvr\MvcApp\bin\Debug\netcoreapp1.1\MvcApp.runtimeconfig.dev.json
+E:\Visual Studio Projects\IdSvr\MvcApp\bin\Debug\netcoreapp1.1\MvcApp.dll
+E:\Visual Studio Projects\IdSvr\MvcApp\bin\Debug\netcoreapp1.1\MvcApp.pdb
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.AssemblyInfo.cs
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.dll
+E:\Visual Studio Projects\IdSvr\MvcApp\obj\Debug\netcoreapp1.1\MvcApp.pdb

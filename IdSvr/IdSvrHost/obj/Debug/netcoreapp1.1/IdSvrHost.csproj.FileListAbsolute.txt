@@ -1,0 +1,11 @@
+E:\Visual Studio Projects\IdSvr\IdSvrHost\bin\Debug\netcoreapp1.1\IdSvrHost.deps.json
+E:\Visual Studio Projects\IdSvr\IdSvrHost\bin\Debug\netcoreapp1.1\IdSvrHost.runtimeconfig.json
+E:\Visual Studio Projects\IdSvr\IdSvrHost\bin\Debug\netcoreapp1.1\IdSvrHost.runtimeconfig.dev.json
+E:\Visual Studio Projects\IdSvr\IdSvrHost\bin\Debug\netcoreapp1.1\IdSvrHost.dll
+E:\Visual Studio Projects\IdSvr\IdSvrHost\bin\Debug\netcoreapp1.1\IdSvrHost.pdb
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.csprojResolveAssemblyReference.cache
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.AssemblyInfoInputs.cache
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.AssemblyInfo.cs
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.dll
+E:\Visual Studio Projects\IdSvr\IdSvrHost\obj\Debug\netcoreapp1.1\IdSvrHost.pdb

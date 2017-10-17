@@ -1,0 +1,52 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.15
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IdSvrHost", "IdSvrHost\IdSvrHost.csproj", "{279F2D71-79EB-4008-9047-13BEF4B78F0C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MvcApp", "MvcApp\MvcApp.csproj", "{A56382B8-A1FB-499A-A6A4-BC9E953CFD2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApi", "WebApi\WebApi.csproj", "{E110F3F9-B39A-4B05-85A6-F813EAD9CFC1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{279F2D71-79EB-4008-9047-13BEF4B78F0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{279F2D71-79EB-4008-9047-13BEF4B78F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{279F2D71-79EB-4008-9047-13BEF4B78F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{279F2D71-79EB-4008-9047-13BEF4B78F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A56382B8-A1FB-499A-A6A4-BC9E953CFD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A56382B8-A1FB-499A-A6A4-BC9E953CFD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A56382B8-A1FB-499A-A6A4-BC9E953CFD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A56382B8-A1FB-499A-A6A4-BC9E953CFD2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E110F3F9-B39A-4B05-85A6-F813EAD9CFC1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E110F3F9-B39A-4B05-85A6-F813EAD9CFC1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E110F3F9-B39A-4B05-85A6-F813EAD9CFC1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E110F3F9-B39A-4B05-85A6-F813EAD9CFC1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {674B8403-D00C-4F5C-AB46-81D8829F0BAA}
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 4
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://chrisholwerda.visualstudio.com/
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = IdSvrHost\\IdSvrHost.csproj
+		SccProjectName1 = IdSvrHost
+		SccLocalPath1 = IdSvrHost
+		SccProjectUniqueName2 = MvcApp\\MvcApp.csproj
+		SccProjectName2 = MvcApp
+		SccLocalPath2 = MvcApp
+		SccProjectUniqueName3 = WebApi\\WebApi.csproj
+		SccProjectName3 = WebApi
+		SccLocalPath3 = WebApi
+	EndGlobalSection
+EndGlobal
